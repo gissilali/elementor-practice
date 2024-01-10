@@ -1,0 +1,719 @@
+2024-01-10T09:55:08+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:58
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 58
+
+2024-01-10T09:55:15+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:58
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 58
+
+2024-01-10T09:55:34+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:57
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#7 /var/www/html/index.php(17): require('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 57
+
+2024-01-10T09:55:52+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:57
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#7 /var/www/html/index.php(17): require('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 57
+
+2024-01-10T09:55:53+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:57
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#7 /var/www/html/index.php(17): require('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 57
+
+2024-01-10T09:55:57+00:00 CRITICAL Uncaught Error: Call to undefined function is_plugin_active() in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:57
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(324): PhytoceuticsElementorWidgets->init_plugin('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#4 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#7 /var/www/html/index.php(17): require('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 57
+
+2024-01-10T11:36:48+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:36:49+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:20+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:21+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:21+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:21+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:21+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:37+00:00 CRITICAL Uncaught Error: Failed opening required '/var/www/html/wp-content/plugins/phytoceutics-elementor-widgets./widgets/product-grid.php' (include_path='.:/usr/local/lib/php') in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php:75
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#1 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#5 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#6 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#9 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php on line 75
+
+2024-01-10T11:37:58+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(75): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:37:59+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(75): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:37:59+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(75): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:37:59+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(75): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:38:10+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(75): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(68): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:40:47+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:40:47+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:40:47+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:40:48+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:40:48+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:41:02+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T11:44:50+00:00 CRITICAL Uncaught Error: Class "Elementor\Widget_Base" not found in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:7
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(78): require_once()
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/phytoceutics-elementor-widgets.php(71): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_widgets()
+#2 /var/www/html/wp-includes/class-wp-hook.php(324): Phytoceutics\ElementorWidgets\PhytoceuticsElementorWidgets->init_plugin('')
+#3 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /var/www/html/wp-settings.php(506): do_action('plugins_loaded')
+#6 /var/www/html/wp-config.php(133): require_once('/var/www/html/w...')
+#7 /var/www/html/wp-load.php(50): require_once('/var/www/html/w...')
+#8 /var/www/html/wp-admin/admin.php(34): require_once('/var/www/html/w...')
+#9 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#10 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 7
+
+2024-01-10T12:54:45+00:00 CRITICAL Uncaught TypeError: array_keys(): Argument #1 ($array) must be of type array, WC_Product_Simple given in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:88
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(88): array_keys(Object(WC_Product_Simple))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(74): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render_product_card(Object(WC_Product_Simple))
+#2 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(738): Elementor\Widget_Base->render_content()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(551): Elementor\Widget_Base->get_raw_data(true)
+#6 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1023): Elementor\Element_Base->get_raw_data(true)
+#7 /var/www/html/wp-content/plugins/elementor/core/base/document.php(679): Elementor\Core\Base\Document->get_elements_raw_data(Array, true)
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(1042): Elementor\Core\Base\Document->get_initial_config()
+#9 /var/www/html/wp-content/plugins/elementor/core/editor/loader/common/editor-common-scripts-settings.php(34): Elementor\Controls_Stack->get_config()
+#10 /var/www/html/wp-content/plugins/elementor/core/editor/loader/v1/editor-v1-loader.php(76): Elementor\Core\Editor\Loader\Common\Editor_Common_Scripts_Settings::get()
+#11 /var/www/html/wp-content/plugins/elementor/core/editor/editor.php(358): Elementor\Core\Editor\Loader\V1\Editor_V1_Loader->enqueue_scripts()
+#12 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#13 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#15 /var/www/html/wp-includes/script-loader.php(2262): do_action('wp_enqueue_scri...')
+#16 /var/www/html/wp-includes/class-wp-hook.php(324): wp_enqueue_scripts('')
+#17 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#18 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#19 /var/www/html/wp-includes/general-template.php(3052): do_action('wp_head')
+#20 /var/www/html/wp-content/plugins/elementor/includes/editor-templates/editor-wrapper.php(31): wp_head()
+#21 /var/www/html/wp-content/plugins/elementor/core/editor/loader/v1/editor-v1-loader.php(110): include('/var/www/html/w...')
+#22 /var/www/html/wp-content/plugins/elementor/core/editor/editor.php(163): Elementor\Core\Editor\Loader\V1\Editor_V1_Loader->print_root_template()
+#23 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#24 /var/www/html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#25 /var/www/html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#26 /var/www/html/wp-admin/admin.php(419): do_action('admin_action_el...')
+#27 /var/www/html/wp-admin/post.php(12): require_once('/var/www/html/w...')
+#28 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 88
+
+2024-01-10T19:10:36+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(149): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:10:38+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(149): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:10:50+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:149
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(148): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 149
+
+2024-01-10T19:23:17+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:151
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 151
+
+2024-01-10T19:23:41+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:25:30+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:25:43+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:25:50+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:26:26+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:150
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 150
+
+2024-01-10T19:26:37+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Term as array in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:151
+Stack trace:
+#0 [internal function]: Phytoceutics\ElementorWidgets\Widgets\Product_Grid->Phytoceutics\ElementorWidgets\Widgets\{closure}(Array, Object(WP_Term))
+#1 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(147): array_reduce(Array, Object(Closure), Array)
+#2 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(84): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->get_product_categories()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#9 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#10 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#11 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#12 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#13 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#14 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#15 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#16 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#17 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#18 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#19 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#20 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#21 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#22 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#23 /var/www/html/index.php(17): require('/var/www/html/w...')
+#24 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 151
+
+2024-01-10T19:33:36+00:00 CRITICAL Uncaught Error: Object of class WP_Term could not be converted to string in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php:119
+Stack trace:
+#0 /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php(91): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render_category_options(Array, 'Condition')
+#1 /var/www/html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): Phytoceutics\ElementorWidgets\Widgets\Product_Grid->render()
+#2 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(614): Elementor\Controls_Stack->render_by_mode()
+#3 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(755): Elementor\Widget_Base->render_content()
+#4 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Widget_Base->print_content()
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(1375): Elementor\Element_Base->print_element()
+#6 /var/www/html/wp-content/plugins/elementor/includes/base/element-base.php(464): Elementor\Element_Base->print_content()
+#7 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1749): Elementor\Element_Base->print_element()
+#8 /var/www/html/wp-content/plugins/elementor/core/base/document.php(1144): Elementor\Core\Base\Document->print_elements(Array)
+#9 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper(Array)
+#10 /var/www/html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content(2)
+#11 /var/www/html/wp-includes/class-wp-hook.php(324): Elementor\Frontend->apply_builder_in_content('<img width="300...')
+#12 /var/www/html/wp-includes/plugin.php(205): WP_Hook->apply_filters('<img width="300...', Array)
+#13 /var/www/html/wp-includes/post-template.php(256): apply_filters('the_content', '<img width="300...')
+#14 /var/www/html/wp-content/themes/hello-elementor/template-parts/single.php(25): the_content()
+#15 /var/www/html/wp-includes/template.php(792): require('/var/www/html/w...')
+#16 /var/www/html/wp-includes/template.php(725): load_template('/var/www/html/w...', false, Array)
+#17 /var/www/html/wp-includes/general-template.php(206): locate_template(Array, true, false, Array)
+#18 /var/www/html/wp-content/themes/hello-elementor/index.php(21): get_template_part('template-parts/...')
+#19 /var/www/html/wp-includes/template-loader.php(106): include('/var/www/html/w...')
+#20 /var/www/html/wp-blog-header.php(19): require_once('/var/www/html/w...')
+#21 /var/www/html/index.php(17): require('/var/www/html/w...')
+#22 {main}
+  thrown in /var/www/html/wp-content/plugins/phytoceutics-elementor-widgets/widgets/product-grid.php on line 119
+
